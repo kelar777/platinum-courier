@@ -1,0 +1,26 @@
+div.top {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+    background-color: #f6f7f8;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 3vw 5vw;
+    text-transform: uppercase;
+    padding-left: 2vw;
+    gap: 2vw;
+    justify-content: space-between;
+}
+
+nav img {
+  
+   
+    height: 6vh;
+}
+
+nav {
+    display: flex;
+    gap: 2vw;
+    align-items: center;
+    cursor: pointer;
+}
